@@ -3,7 +3,7 @@
 **AI Flashcards** is a **state-of-the-art Software as a Service (SaaS) application** designed to revolutionize the way students and professionals create, manage, and study flashcards. By harnessing the power of **Next.js, Clerk, OpenAI, and Stripe,** this application provides an intuitive and scalable platform for efficient learning.
 
 ✨ **Features**
-* AI-Powered Flashcards: Instantly generate flashcards from any text using OpenAI's GPT model.
+* ## AI-Powered Flashcards: Instantly generate flashcards from any text using OpenAI's GPT model.
 *User Authentication: Seamless and secure sign-up and login with Clerk.
 *Subscription Management: Offer Pro plans with Stripe integration for hassle-free payments.
 *Flashcard Organization: Save and categorize flashcards with Firebase for easy access.
