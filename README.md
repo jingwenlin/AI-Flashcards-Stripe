@@ -1,23 +1,23 @@
-📚 **AI Flashcards & Stripe SaaS Application**
+# AI Flashcards & Stripe SaaS Application**
 ## Overview
 **AI Flashcards** is a **state-of-the-art Software as a Service (SaaS) application** designed to revolutionize the way students and professionals create, manage, and study flashcards. By harnessing the power of **Next.js, Clerk, OpenAI, and Stripe,** this application provides an intuitive and scalable platform for efficient learning.
 
-✨ #Features
+## Features
 * **AI-Powered Flashcards**: Instantly generate flashcards from any text using **OpenAI's GPT model**.
 * User Authentication: Seamless and secure sign-up and login with **Clerk**.
 * Subscription Management: Offer **Pro plans** with **Stripe integration** for hassle-free payments.
 * Flashcard Organization: Save and categorize flashcards with **Firebase** for easy access.
 * Responsive Design: Enjoy a **modern, responsive UI** built with **Material-UI**.
   
-🛠️ #Technologies Used
+## Technologies Used
 * **Next.js**: A powerful **React framework** for server-side rendering.
 * **Clerk**: Comprehensive **user authentication** and management.
 * **OpenAI**: **AI-driven flashcard creation** using natural language processing.
 * **Stripe**: **Secure payment processing** and subscription management.
 * **Firebase**: **Real-time database** for storing and managing user data.
 * **Material-UI**: Stylish and responsive **UI components**.
-* 
-🚀 #Installation
+  
+## Installation
 **Prerequisites**
 * Ensure **Node.js** and **npm** are installed on your machine.
 **Setup**
@@ -63,13 +63,13 @@ NEXT_PUBLIC_OPENAI_API_KEY=your-openai-api-key
 npm run dev
 * Open **http://localhost:3000** in your browser to view the app.
 
-🧑‍💻#Usage
+## Usage
 * **Sign Up / Sign In**:Use **Clerk** for user authentication.
 * **Generate Flashcards**: Enter text to create flashcards powered by **AI**.
 * **Manage Flashcards**: Save and organize flashcards into sets for easy access.
 * **Pro Subscription**: Offer advanced features with a **Pro plan** through **Stripe**.
 
-🛠️ #Future Enhancements
+## Future Enhancements
 * **Spaced Repetition **: Implement algorithms for optimized learning schedules.
 * **Multimedia Support**: Add the ability to include images and audio in flashcards.
 * **Mobile App**: Develop a companion mobile app for on-the-go studying.
