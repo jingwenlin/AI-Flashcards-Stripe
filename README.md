@@ -23,9 +23,9 @@
 **Setup**
 1. **Clone the repository:**
    
-git **lone** https://github.com/your-username/flashcard-saas.git
+git clone https://github.com/your-username/flashcard-saas.git
 
-**cd** flashcard-saas
+cd flashcard-saas
 
 2. **Install dependencies:**
 npm install
@@ -54,7 +54,7 @@ export default db;
 
 4. **Set Environment Variables:**
 * Create a **.env.local** file in the root directory and add the following:
-* 
+  
 NEXT_PUBLIC_CLERK_FRONTEND_API=your-clerk-frontend-api
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your-stripe-publishable-key
 STRIPE_SECRET_KEY=your-stripe-secret-key
