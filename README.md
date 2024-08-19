@@ -24,6 +24,7 @@
 1. **Clone the repository:**
    
 git **lone** https://github.com/your-username/flashcard-saas.git
+
 **cd** flashcard-saas
 
 2. **Install dependencies:**
@@ -31,6 +32,7 @@ npm install
 
 3. **Configure Firebase:**
 * Create a **Firebase project** and add a web app.
+  
 * Copy the Firebase config object and create a **firebase.js** file in your project root:
   
 import { initializeApp } from 'firebase/app';
@@ -70,7 +72,7 @@ npm run dev
 * **Pro Subscription**: Offer advanced features with a **Pro plan** through **Stripe**.
 
 ## Future Enhancements
-* **Spaced Repetition **: Implement algorithms for optimized learning schedules.
+* **Spaced Repetition**: Implement algorithms for optimized learning schedules.
 * **Multimedia Support**: Add the ability to include images and audio in flashcards.
 * **Mobile App**: Develop a companion mobile app for on-the-go studying.
 * **Collaboration**: Enable users to share and collaboratively edit flashcard sets.
