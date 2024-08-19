@@ -1,4 +1,4 @@
-# AI Flashcards & Stripe SaaS Application**
+# AI Flashcards & Stripe SaaS Application
 ## Overview
 **AI Flashcards** is a **state-of-the-art Software as a Service (SaaS) application** designed to revolutionize the way students and professionals create, manage, and study flashcards. By harnessing the power of **Next.js, Clerk, OpenAI, and Stripe,** this application provides an intuitive and scalable platform for efficient learning.
 
